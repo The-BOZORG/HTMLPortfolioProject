@@ -3,10 +3,13 @@ body {
   margin: 0;
   padding: 0;
   background-color: #f4f4f4;
+  background-image: url("/wallpaper.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-size: 100% 50%;
 }
 
 header {
-  background-image:(url="/wallpaper.jpg");
   background-size: cover;
   background-position: center;
   color: #fff;
