@@ -6,7 +6,7 @@ body {
 }
 
 header {
-  background-image:(url="/src/wallpaper.jpg");
+  background-image:(url="wallpaper.jpg");
   background-size: cover;
   background-position: center;
   color: #fff;
