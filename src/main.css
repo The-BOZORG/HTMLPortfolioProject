@@ -8,6 +8,12 @@ body {
   background-size: cover;
   background-size: 100% 50%;
 }
+.head-center{
+  position: fixed;
+  flex-direction: row;
+  height: 30px;
+  background-color: red;
+}
 
 header {
   background-size: cover;
